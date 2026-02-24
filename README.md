@@ -1,5 +1,8 @@
 # 🎓 Career 180 — Scalable Mini-LMS
 
+![Tests](https://github.com/bola-cloud/task-lms/actions/workflows/tests.yml/badge.svg)
+![Linter](https://github.com/bola-cloud/task-lms/actions/workflows/lint.yml/badge.svg)
+
 A production-ready Learning Management System built for the Career 180 Hiring Quest.
 Built with **Laravel 12**, **Livewire v3**, **Alpine.js**, **Filament v3**, **Plyr.js**, and **Docker**.
 
